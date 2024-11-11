@@ -2,9 +2,9 @@
 <h2>Project Overview</h2>
 This project delves into NBA player performance and game outcome predictions using machine learning techniques. It includes two primary modules, each implemented in separate Colab notebooks:
 
-&#8226Outlier Detection: Identifies standout NBA players based on performance metrics.
-&#8226Game Outcome Prediction: Predicts game outcomes using various classification models.<p>
-Each module is linked to the specific sections in the project report, detailing methodologies and results.
+Outlier Detection: Identifies standout NBA players based on performance metrics.<p>
+Game Outcome Prediction: Predicts game outcomes using various classification models.<p>
+Each module is linked to the specific sections in the project report, detailing methodologies and results.<p>
 
 <h2>Authors</h2>
 <b>&#8226 Thariq Singh</b> - <i>219063421@stu.ukzn.ac.za</i><p><p>
