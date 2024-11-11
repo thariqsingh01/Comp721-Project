@@ -7,11 +7,11 @@ Game Outcome Prediction: Predicts game outcomes using various classification mod
 Each module is linked to the specific sections in the project report, detailing methodologies and results.
 
 <h2>Authors</h2>
-Thariq Singh - 219063421@stu.ukzn.ac.za
-Saarisha Govender - 221009853@stu.ukzn.ac.za
-Callyn Blayne Barath - 220010761@stu.ukzn.ac.za
-Lerisha Moodley - 220036955@stu.ukzn.ac.za
-Dhiya Dharampal - 221033815@stu.ukzn.ac.za
+<b>Thariq Singh</b> - <i>219063421@stu.ukzn.ac.za</i>
+<b>Saarisha Govender</b> - <i>221009853@stu.ukzn.ac.za</i>
+<b>Callyn Blayne Barath</b> - <i>220010761@stu.ukzn.ac.za</i>
+<b>Lerisha Moodley</b> - <i>220036955@stu.ukzn.ac.za</i>
+<b>Dhiya Dharampal</b> - <i>221033815@stu.ukzn.ac.za</i>
 
 <h2>Files</h2>
 <h3>1. Outlier Detection Notebook</h3>
