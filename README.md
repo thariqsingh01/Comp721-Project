@@ -15,14 +15,14 @@ Each module is linked to the specific sections in the project report, detailing 
 
 <h2>Files</h2>
 <h3>1. Outlier Detection Notebook</h3>
-This notebook employs various machine learning algorithms to identify NBA players whose performance metrics significantly deviate from the norm. The methods used include:
+This notebook employs various machine learning algorithms to identify NBA players whose performance metrics significantly deviate from the norm. The methods used include:<p>
 
-Clustering-Based Outlier Detection: Utilizes K-means clustering and Principal Component Analysis (PCA) to identify clusters and detect players with unique performance profiles.
-Distance-Based Detection: Calculates performance distances to pinpoint players whose stats deviate notably from the mean.
-LOESS Smoothing: Applies Local Linear Regression (LOESS) to capture nuanced performance relationships, identifying outliers within the dataset.
-Key Outputs
-Visualizations of outlier distributions among players.
-Summary of identified outliers along with their unique performance metrics.
+<b>&#8226Clustering-Based Outlier Detection:</b> Utilizes K-means clustering and Principal Component Analysis (PCA) to identify clusters and detect players with unique performance profiles.
+<b>&#8226Distance-Based Detection:</b> Calculates performance distances to pinpoint players whose stats deviate notably from the mean.
+<b>&#8226LOESS Smoothing:</b> Applies Local Linear Regression (LOESS) to capture nuanced performance relationships, identifying outliers within the dataset.
+<b>Key Outputs</b>
+<b>&#8226</b> Visualizations of outlier distributions among players.
+<b>&#8226</b> Summary of identified outliers along with their unique performance metrics.
 <h3>2. Game Outcome Prediction Notebook</h3>
 This notebook predicts NBA game outcomes by training and comparing various machine learning models, including:
 
