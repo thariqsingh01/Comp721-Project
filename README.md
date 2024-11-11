@@ -7,7 +7,7 @@ Game Outcome Prediction: Predicts game outcomes using various classification mod
 Each module is linked to the specific sections in the project report, detailing methodologies and results.
 
 <h2>Authors</h2>
-<b>Thariq Singh</b> - <i>219063421@stu.ukzn.ac.za</i><p>
+<b>Thariq Singh</b> - <i>219063421@stu.ukzn.ac.za</i><p><p>
 <b>Saarisha Govender</b> - <i>221009853@stu.ukzn.ac.za</i><p>
 <b>Callyn Blayne Barath</b> - <i>220010761@stu.ukzn.ac.za</i><p>
 <b>Lerisha Moodley</b> - <i>220036955@stu.ukzn.ac.za</i><p>
