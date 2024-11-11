@@ -76,5 +76,6 @@
 <ol> 
   <li>Open the respective Colab notebook.</li> 
   <li>Install the necessary libraries.</li> 
-  <li>Execute the cells in sequence, following any additional instructions in each notebook to view outputs.</li> 
+  <li>Upload the necessary textfiles.</li>
+  <li>Execute the cells in sequence.</li> 
 </ol>
