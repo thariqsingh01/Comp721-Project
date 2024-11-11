@@ -1,9 +1,9 @@
 <h1>COMP721 NBA Project: Outlier Detection and Game Outcome Prediction</h1>
 <h2>Project Overview</h2>
-This project delves into NBA player performance and game outcome predictions using machine learning techniques. It includes two primary modules, each implemented in separate Colab notebooks:
+This project delves into NBA player performance and game outcome predictions using machine learning techniques. It includes two primary modules, each implemented in separate Colab notebooks:<p>
 
 Outlier Detection: Identifies standout NBA players based on performance metrics.</br>
-Game Outcome Prediction: Predicts game outcomes using various classification models.</br>
+Game Outcome Prediction: Predicts game outcomes using various classification models.</br><p>
 Each module is linked to the specific sections in the project report, detailing methodologies and results.</br>
 
 <h2>Authors</h2>
